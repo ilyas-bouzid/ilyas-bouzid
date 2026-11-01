@@ -1,16 +1,36 @@
-## Hi there 👋
+ Hi, I'm Ilyas Bouzid 👋
 
-<!--
-**ilyas-bouzid/ilyas-bouzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Cybersecurity Student | Networks & Telecommunications
 
-Here are some ideas to get you started:
+* About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a graduate in Networks and Telecommunications, currently pursuing studies in Cybersecurity.
+
+I am interested in computer networks, system administration, programming, and information security.
+
+I aim to develop my technical knowledge through continuous learning and practical projects.
+
+* Technical Interests
+
+- Computer Networking
+- Linux Administration
+- Cybersecurity
+- Programming & Algorithms
+- Network Security
+
+* Currently Learning
+
+- Algorithm Design
+- Git & GitHub
+- Linux
+- Programming Fundamentals
+
+* Education
+
+- DUT – Networks and Telecommunications
+- Current Studies – Cybersecurity
+
+* Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ilyass-bouzid-18b113348/)
+- GitHub: [ilyas-bouzid](https://github.com/ilyas-bouzid)
