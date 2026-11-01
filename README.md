@@ -1,16 +1,18 @@
- Hi, I'm Ilyas Bouzid 👋
+# Hi, I'm Ilyas Bouzid 👋
 
-* Cybersecurity Student | Networks & Telecommunications
+### Cybersecurity Student | Networks & Telecommunications
 
-* About Me
+---
 
-I am a graduate in Networks and Telecommunications, currently pursuing studies in Cybersecurity.
+##  About Me
 
-I am interested in computer networks, system administration, programming, and information security.
+I am a graduate in Networks and Telecommunications,
+currently pursuing studies in Cybersecurity.
 
-I aim to develop my technical knowledge through continuous learning and practical projects.
+I am interested in computer networks, Linux administration,
+programming, and information security.
 
-* Technical Interests
+##  Technical Interests
 
 - Computer Networking
 - Linux Administration
@@ -18,19 +20,19 @@ I aim to develop my technical knowledge through continuous learning and practica
 - Programming & Algorithms
 - Network Security
 
-* Currently Learning
+##  Currently Learning
 
-- Algorithm Design
+- Python
 - Git & GitHub
 - Linux
-- Programming Fundamentals
+- Algorithm Design
 
-* Education
+##  Education
 
-- DUT – Networks and Telecommunications
-- Current Studies – Cybersecurity
+- DUT in Networks and Telecommunications
+- Cybersecurity Engineering Studies
 
-* Connect With Me
+##  Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ilyass-bouzid-18b113348/)
-- GitHub: [ilyas-bouzid](https://github.com/ilyas-bouzid)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ilyass-bouzid-18b113348/)
+- GitHub: [My GitHub](https://github.com/ilyas-bouzid)
